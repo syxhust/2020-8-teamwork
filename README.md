@@ -31,6 +31,10 @@
     详情请见third_key_factor.py，里面包含了针对1支股票进行多天的滑动平均处理，以及一些经济学指数的提取。
     请见thirdStockPlot.py，里面包含了针对第三种数据的散点图，箱型图。
     同样，相关系数图请见corheatmap.py，里面的cor_data3函数。
+    
+4. 此外，针对第三种数据我们对MA,MACD,Volume,rsi等关键指数进行了分析。
+
+    详情请见因子结论.txt。
 
 
 
